@@ -1,7 +1,8 @@
 # Facebook-Developer-Circle-Hyderabad
-This repo is to maintain all the DevC Hyderabad updates.
 
 Facebook Developer Circle Hyderabad is a community driven program. We organise events, meetups, codelabs, hacakthons and sessions. 
+Join our Facebook Developer Circle Hyderabad Group -  <br/>
+https://www.facebook.com/profile.php?id=1074858042611323&ref=br_rs
 
 **Team** - <br />
 Navya Tatikonda <br />
