@@ -21,7 +21,7 @@ Abhilash
 **Campus Ambassdors** - <br />
 Mohana Meher - BVRIT Hyderabad college of engineering for women<br />
 Sri Yarsha - BVRIT Narsapur<br />
-Vinay - GRIET engineering college.<br /> 
+
 
 **Alumin Support** - <br />
 Vijay Bawra
