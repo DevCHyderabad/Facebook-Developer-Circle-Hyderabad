@@ -9,14 +9,13 @@ Navya Tatikonda <br />
 Hitesh Ramani<br />
 Prashanth Teja<br />
 Rohith Pudari<br />
-Srinivas Reddy Yarragudi
+Srinivas Reddy Yarragudi<br />
+Abhilash 
 
 **Extended Core Team** - <br />
 Anisha <br />
 Vedavyas<br />
 Chinmayee <br />
-Ravi <br />
-Abhilash 
 
 **Campus Ambassdors** - <br />
 Mohana Meher - BVRIT Hyderabad college of engineering for women<br />
