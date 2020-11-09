@@ -7,7 +7,8 @@ assignees: ''
 
 ---
 
-# Describe the Event
+** Describe the Event **
+A clear and concise description of what the Event  is.
 
 # What is the expected duration and is it recurring?
 
