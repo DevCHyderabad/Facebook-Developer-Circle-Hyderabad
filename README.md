@@ -14,14 +14,9 @@ Srinivas Reddy Yarragudi<br />
 Abhilash 
 
 **Extended Core Team** - <br />
-Anisha <br />
-Vedavyas<br />
-Chinmayee <br />
-
-**Campus Ambassdors** - <br />
-Mohana Meher - BVRIT Hyderabad college of engineering for women<br />
-Sri Yarsha - BVRIT Narsapur<br />
-
+Mohana Meher
+Sri Yarsha 
+Venkat
 
 **Alumni Support** - <br />
 Vijay Bawra
